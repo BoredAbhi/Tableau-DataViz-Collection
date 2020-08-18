@@ -1,8 +1,21 @@
 # Tableau DataViz Collection :
 
-This reposiory will be a collection of all my data vizualization using Tableau. Repo restructuring required.
+This reposiory will be a collection of all my Tableau data vizualizations.
 
-#### 1. Name 
-some details regarding data etc. ... Folders for each proj maybe ?
-![WIP](https://github.com/abhi094/Tableau-DataViz-Collection/blob/master/Images/Viz_001_Image.png)
-[Tableau Public Link](https://public.tableau.com/profile/abhijeet.b.#!/vizhome/DataViz1_1myEdit/Dashboard1)
+**Goal :** To participate in [#MakeoverMonday](https://twitter.com/hashtag/makeovermonday) and add one vizualization every week.
+
+## My Tableau Data-Viz :
+1. 2018/W51: London Bus Safety Performance
+
+### 1. 2018/W51: London Bus Safety Performance
+
+**Description :** Transport for London produces quarterly reports that provide analysis of incidents on the London bus network
+
+**Data Source :** [Transport for London](https://tfl.gov.uk/corporate/publications-and-reports/bus-safety-data)
+
+**My Vizualization :**
+<p align="center">
+  <img src="https://github.com/abhi094/Tableau-DataViz-Collection/blob/master/Images/Viz_001_Image.png">
+</p>
+
+**Tableau Public Link:** [London Bus Safety ](https://public.tableau.com/profile/abhijeet.b.#!/vizhome/DataViz1_1myEdit/Dashboard1)
